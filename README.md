@@ -1,6 +1,5 @@
 # 👋 ¡Hola! Soy kikecod
 
-![Avatar](https://api.dicebear.com/7.x/bottts/svg?seed=kikecod)
 
 ## 👨‍🎓 Sobre mí
 Soy estudiante de **Ingeniería de Software** con pasión por el desarrollo web, la creatividad y el aprendizaje constante. Me gusta combinar la tecnología con mis hobbies para crear soluciones prácticas y divertidas.
